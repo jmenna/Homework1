@@ -1,0 +1,19 @@
+{
+  "name": "homework1",
+  "version": "1.0.0",
+  "description": "This is the description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmenna/Homework1.git"
+  },
+  "author": "Jonathan Menna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmenna/Homework1/issues"
+  },
+  "homepage": "https://github.com/jmenna/Homework1#readme"
+}
